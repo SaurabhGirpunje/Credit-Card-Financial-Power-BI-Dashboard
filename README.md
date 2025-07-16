@@ -21,6 +21,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - Overall Activation rate is 57.5%
 - Overall Delinquent rate is 6.06%
 
+
 #### Dashboard view
 
 ##### Transaction Report
